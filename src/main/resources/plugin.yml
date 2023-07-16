@@ -1,0 +1,9 @@
+name: JustMoreUtil
+version: '${project.version}'
+main: justmoreutil.justmoreutil.JustMoreUtil
+api-version: 1.20
+
+commands:
+  ping:
+    description: "Check player-server ping."
+
